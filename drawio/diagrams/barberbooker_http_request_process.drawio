@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
   <diagram id="pq-GqyaZ4IH2je2W0F8g" name="Page-1">
-    <mxGraphModel dx="1603" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1B0uhocLdzJD5yewi_9-25" value="&lt;span&gt;токенПриступа истекао&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" edge="1" source="G1B0uhocLdzJD5yewi_9-14">
+        <mxCell id="G1B0uhocLdzJD5yewi_9-25" value="&lt;span&gt;токенПриступа истекао&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" source="G1B0uhocLdzJD5yewi_9-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="629.7857142857142" y="440" as="targetPoint" />
             <mxPoint x="1050" y="440" as="sourcePoint" />
@@ -90,7 +90,7 @@
             <mxPoint x="980" y="485" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1B0uhocLdzJD5yewi_9-28" value="&lt;span style=&quot;text-align: left;&quot;&gt;новиТокенПриступа, новиТокенОсвежења&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" edge="1" source="G1B0uhocLdzJD5yewi_9-26">
+        <mxCell id="G1B0uhocLdzJD5yewi_9-28" value="&lt;span style=&quot;text-align: left;&quot;&gt;новиТокенПриступа, новиТокенОсвежења&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" source="G1B0uhocLdzJD5yewi_9-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="629.8939393939395" y="689.9999999999999" as="targetPoint" />
             <mxPoint x="1050" y="689.9999999999999" as="sourcePoint" />
@@ -120,25 +120,25 @@
         <mxCell id="G1B0uhocLdzJD5yewi_9-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1100.23" y="790" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="G1B0uhocLdzJD5yewi_9-34" value="&lt;i&gt;дохватиЗаказанеТермине&lt;/i&gt;&lt;span&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;новиТокенПриступа&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" parent="1" edge="1" target="G1B0uhocLdzJD5yewi_9-33">
+        <mxCell id="G1B0uhocLdzJD5yewi_9-34" value="&lt;i&gt;дохватиЗаказанеТермине&lt;/i&gt;&lt;span&gt;(мејл,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;новиТокенПриступа&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" parent="1" target="G1B0uhocLdzJD5yewi_9-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="629.777619047619" y="800.0000000000002" as="sourcePoint" />
             <mxPoint x="1050.23" y="800.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1B0uhocLdzJD5yewi_9-35" value="&lt;span&gt;заказаниТермини&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" edge="1" source="G1B0uhocLdzJD5yewi_9-33">
+        <mxCell id="G1B0uhocLdzJD5yewi_9-35" value="&lt;span&gt;заказаниТермини&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" source="G1B0uhocLdzJD5yewi_9-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630.0848387096776" y="938.89" as="targetPoint" />
             <mxPoint x="1050.23" y="938.89" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1B0uhocLdzJD5yewi_9-37" value="&lt;i&gt;дохватиЗаказанеТермине&lt;/i&gt;&lt;span&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;мејл&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" parent="1" edge="1" target="G1B0uhocLdzJD5yewi_9-36">
+        <mxCell id="G1B0uhocLdzJD5yewi_9-37" value="&lt;i&gt;дохватиЗаказанеТермине&lt;/i&gt;&lt;span&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;мејл&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" parent="1" target="G1B0uhocLdzJD5yewi_9-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="890" as="sourcePoint" />
             <mxPoint x="1510.0000000000005" y="890.0600000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1B0uhocLdzJD5yewi_9-38" value="&lt;font&gt;заказаниТермини&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" edge="1" source="G1B0uhocLdzJD5yewi_9-36">
+        <mxCell id="G1B0uhocLdzJD5yewi_9-38" value="&lt;font&gt;заказаниТермини&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" parent="1" source="G1B0uhocLdzJD5yewi_9-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="920" as="targetPoint" />
             <mxPoint x="1509.7700000000004" y="920" as="sourcePoint" />
